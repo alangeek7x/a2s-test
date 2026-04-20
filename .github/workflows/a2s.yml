@@ -16,8 +16,8 @@ jobs:
           python3 - << 'EOF'
           import socket, time
 
-          SERVER_IP   = "92.118.207.11"
-          SERVER_PORT = 27016
+          SERVER_IP   = "95.135.0.140
+          SERVER_PORT = 27015
           TIMEOUT_SEC = 5.0
           REPEATS     = 5
 
